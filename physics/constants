@@ -1,0 +1,17 @@
+"""
+Algebraic Constants
+"""
+
+import numpy as np
+import scipy as sp
+import sympy as spy
+
+# create some constants
+
+pi = 3.141592653589793238426433832197169399375
+
+def pauli_matrix(i):
+    return 0
+
+def gamma_matrix(i):
+    return 0
